@@ -1,1 +1,1 @@
-# Kaggle
+# My solutions to Kaggle competitions
